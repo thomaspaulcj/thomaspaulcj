@@ -8,18 +8,6 @@
 
 <br>
 
-<div align="center">
-
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
-<h3><code>thomaspaulcj@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="cj's GitHub contribution graph — auto-refreshed daily" />
-
-<br>
-<br>
-
 [Portfolio](https://thomaspaulcj.netlify.app) ·
 [LinkedIn](https://www.linkedin.com/in/thomaspaulcj/) ·
 [GitHub](https://github.com/ThomasPaulCJ) ·
