@@ -160,6 +160,8 @@ Also in daily use: **TypeORM**, **LangGraph**, and **Stable Diffusion**.
 
 <img src="https://streak-stats.demolab.com?user=thomaspaulcj&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,55:0c2d6b,100:0d1117&height=120&section=footer" width="100%" alt="" />
